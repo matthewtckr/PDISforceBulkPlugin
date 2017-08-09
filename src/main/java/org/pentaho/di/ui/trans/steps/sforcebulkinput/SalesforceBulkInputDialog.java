@@ -73,7 +73,7 @@ import org.pentaho.di.trans.steps.sforcebulkinput.SalesforceBulkConnectionUtils;
 import org.pentaho.di.trans.steps.sforcebulkinput.SalesforceBulkInputMeta;
 
 import org.pentaho.di.trans.steps.salesforceinput.SalesforceInputField;
-import org.pentaho.di.ui.trans.steps.salesforceinput.SOQLValuesHighlight;
+import org.pentaho.di.trans.steps.salesforceinput.SOQLValuesHighlight;
 
 public class SalesforceBulkInputDialog extends BaseStepDialog implements StepDialogInterface {
 	
